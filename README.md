@@ -1,1 +1,1 @@
-# gitrep
+Reopozyritum z moimi kodami
