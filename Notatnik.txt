@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-06T08:08:15+02:00
+
+====== Notatnik ======
+Created czwartek 06 września 2019
+Język programowania niskiego poziomu :
+mov ecx,50
+dec ecx
+push eax
+pop ecx
+or ecx, eax
+{ecx,eax} - rejestry procesora
+
+Języki wysokiego poziomu stworzono na bazie assemblerów.
+
+Programowanie ot mówienie komputerowi, co ma robić i w jakich kolejnościach.
+
+c++1983
+
+kompilator to program ktory analizuje skladnie polecen i na podstawie tej składni tworzy kod maszynowy.
+
+Języki interpretowane:
+Python
+Java
+Java Script.
+
+Algorytmem nazywamy skończony ciąg czynnościm przekształcający zbiór danych wejściowych na zbiór danych wyjściowych.
+
+Algorytmy, które wykonuja działania matematyczne na danych liczbowych, nazywamy algorytmami numerycznymi.
+
+Algorytmy, w których kolejność czynnościjest zawsze taka sama i niezależna od wartości danych wejściowych, nazywamy algorytmamisekwencyjnymi lub inaczej liniowymi.
+
+Blok graniczny - początek algorytmu.
+Blok operacyjny - operacje zmieniające wartości zmiennych.
+Blok wejścia/wyjścia - operacje wprowadzania i wyprowadzania danych.
+Blok decyzyjny - wybór jednej z dwóch możliwych dróg działania.
+Blok graniczny - koniec algorytmu.
